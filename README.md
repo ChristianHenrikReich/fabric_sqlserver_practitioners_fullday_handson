@@ -1,0 +1,1 @@
+# fabric_sqlserver_practitioners_fullday_handson
